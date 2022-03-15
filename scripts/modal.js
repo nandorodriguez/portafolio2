@@ -20,7 +20,7 @@ $(document).ready(function () {
       tag: "LANDING PAGE",
       detail:
         "JavaSwap is an extremely fast and ultra low fee AMM using the Polygon network (MATIC) to provide services to the people. Whereas, JAVA is the native token on JavaSwap. JavaSwap is different from other AMM’s due to its competitive and extremely low fees, this makes it usable for the common man as he doesn’t have to pay a gas fee higher than the transaction itself..",
-      link: "https://presale.javaswap.io/",
+      link: "https://lunarlaunch.javaswap.io/",
     },
     lifebreak: {
       title: "lifebreak",
@@ -28,6 +28,13 @@ $(document).ready(function () {
       detail:
         "A different way of looking at work in which it is considered as an integral part of the lifestyle, and not as a separate compartment for leisure.",
       link: "#",
+    },
+    batatabit: {
+      title: "Batatabit",
+      tag: "LANDING PAGE",
+      detail:
+        "It is a great cryptocurrency buying and selling platform!!!",
+      link: "https://nandorodriguez.github.io/Batatabit-platzi-/#plans",
     },
   };
 

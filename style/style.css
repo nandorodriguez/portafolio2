@@ -729,9 +729,9 @@ section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
   background: url("../img/slides/lifebreak-0.png") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
-  background: url("../img/thumb-5.jpg") center center/cover;
+  background: url("../img/slides/batatabit-1.png") center center/cover;
 }
-section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
+/* section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
   background: url("../img/thumb-6.jpg") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
@@ -750,8 +750,8 @@ section:nth-of-type(3) #gallery .mix:nth-child(11) .card {
   background: url("http://findmatthew.com/img/thumb-11.jpg") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(12) .card {
-  background: url("http://findmatthew.com/img/thumb-12.jpg") center center/cover;
-}
+  background: url("http://findmatthew.com/img/thumb-12.jpg") center center/cover; */
+/* } */
 section:nth-of-type(3) #gallery .mix .card {
   height: 240px;
   max-width: 100%;
