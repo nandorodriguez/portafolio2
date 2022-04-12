@@ -36,6 +36,13 @@ $(document).ready(function () {
         "It is a great cryptocurrency buying and selling platform!!!",
       link: "https://nandorodriguez.github.io/Batatabit-platzi-/#plans",
     },
+    veranolab: {
+      title: "VelaroLab",
+      tag: "LANDING PAGE",
+      detail:
+        "Verano Lab is a laboratory of wellness experiences for everyone!",
+      link: "https://www.veranolab.com/",
+    },
   };
 
   $("#gallery .button").on("click", function () {
